@@ -1,2 +1,1 @@
-###### Gideon Brasil's Notes
-# Gideon Brasil's Notes
+### This repository contains all of Gideon Brasil's notes taken for the LHL Dev Bootcamp.
